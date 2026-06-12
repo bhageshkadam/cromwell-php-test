@@ -67,7 +67,7 @@ cromwell-php-test/
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/bhageshkadam/cromwell-php-test.git
 ```
 
 Or download the ZIP file and place the project inside:
