@@ -61,7 +61,7 @@
                         <a href="registration.php" class="btn btn-danger">
     Register
 </a>
-
+ 
                     </form>
 
                 </div>
